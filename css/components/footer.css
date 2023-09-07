@@ -1,0 +1,11 @@
+.footer {
+  background-color: rgb(40, 40, 40);
+}
+ .footer a {
+  font-size: 30px;
+  padding:6px;
+ }
+
+ .footer p {
+  color: grey;
+ }
